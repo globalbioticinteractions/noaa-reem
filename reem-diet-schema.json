@@ -6,7 +6,10 @@
     }, {
       "name": "Pred_nodc",
       "titles": "Pred_nodc",
-      "datatype": "string"
+      "datatype": { 
+          "id" : "https://marinemetadata.org/references/nodctaxacodes",
+          "base" :"string"
+      }
     }, {
       "name": "Pred_specn",
       "titles": "Pred_specn",
@@ -14,7 +17,10 @@
     }, {
       "name": "Prey_nodc",
       "titles": "Prey_nodc",
-      "datatype": "string"
+      "datatype": { 
+          "id" : "https://marinemetadata.org/references/nodctaxacodes",
+          "base" :"string"
+      }
     },{
       "name": "Prey_cnt",
       "titles": "Prey_cnt",
