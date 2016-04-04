@@ -22,7 +22,7 @@
           "base" :"string"
       }
     },{
-      "name": "Prey_cnt",
+      "name": " Pred_len",
       "titles": "Prey_cnt",
       "datatype": "string"
     }, {
@@ -36,14 +36,6 @@
     },{
       "name": "Pred_len",
       "titles": "Pred_len",
-      "datatype": "string"
-    },{
-      "name": "Pred_full",
-      "titles": "Pred_full",
-      "datatype": "string"
-    },{
-      "name": "Pred_wt",
-      "titles": "Pred_wt",
       "datatype": "string"
     },{
       "name": "Year",
@@ -68,26 +60,6 @@
     },{
       "name": "Prey_Name",
       "titles": "Prey_Name",
-      "datatype": "string"
-    },{
-      "name": "Pred_lh",
-      "titles": "Pred_lh",
-      "datatype": "string"
-    },{
-      "name": "Pred_dig",
-      "titles": "Pred_dig",
-      "datatype": "string"
-    },{
-      "name": "Prey_lh",
-      "titles": "Prey_lh",
-      "datatype": "string"
-    },{
-      "name": "Pred_sex",
-      "titles": "Pred_sex",
-      "datatype": "string"
-    },{
-      "name": "Prey_parts",
-      "titles": "Prey_parts",
       "datatype": "string"
     },{
       "name": "Vessel",
@@ -144,5 +116,13 @@
         "base": "date",
         "format": "yyyy-MM-dd"
       }
+    },{
+      "name": "Prey_sz1",
+      "titles": "Prey_sz1",
+      "datatype": "string"
+    },{
+      "name": " Prey_sex",
+      "titles": "Prey_sex",
+      "datatype": "string"
     }]
   }
