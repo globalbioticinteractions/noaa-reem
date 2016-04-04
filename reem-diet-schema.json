@@ -142,7 +142,7 @@
       "titles": "Start_date",
       "datatype": {
         "base": "date",
-        "format": "yyyy-MM-dd HH:mm:ss"
+        "format": "yyyy-MM-dd"
       }
     }]
   }
