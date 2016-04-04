@@ -138,7 +138,7 @@
       "titles": "Stationid",
       "datatype": "string"
     },{
-      "name": "Start_date",
+      "name": "http://rs.tdwg.org/dwc/terms/eventDate",
       "titles": "Start_date",
       "datatype": {
         "base": "date",
