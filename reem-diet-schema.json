@@ -25,18 +25,6 @@
       "name": " Pred_len",
       "titles": "Prey_cnt",
       "datatype": "string"
-    }, {
-      "name": "Prey_twt",
-      "titles": "Prey_twt",
-      "datatype": "string"
-    },{
-      "name": "Pred_stomwt",
-      "titles": "Pred_stomwt",
-      "datatype": "string"
-    },{
-      "name": "Pred_len",
-      "titles": "Pred_len",
-      "datatype": "string"
     },{
       "name": "Year",
       "titles": "Year",
