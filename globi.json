@@ -4,13 +4,13 @@
   "dcterms:bibliographicCitation": "Resource Ecology and Ecosystem Modeling - Groundfish Diet Data, Alaska Fisheries Science Center, NOAA",
   "tables": [
     { "url": "http://access.afsc.noaa.gov/REEM/WebDietData/showdata4.php?NODC=1&Region=AI",
-      "tableSchema": "reem-diet-schema.json"
+      "tableSchema": "https://raw.githubusercontent.com/globalbioticinteractions/noaa-reem/master/reem-diet-schema.json"
     },
     { "url": "http://access.afsc.noaa.gov/REEM/WebDietData/showdata4.php?NODC=1&Region=BS",
-      "tableSchema": "reem-diet-schema.json" 
+      "tableSchema": "https://raw.githubusercontent.com/globalbioticinteractions/noaa-reem/master/reem-diet-schema.json" 
     },
     { "url": "http://access.afsc.noaa.gov/REEM/WebDietData/showdata4.php?NODC=1&Region=GOA",
-      "tableSchema": "reem-diet-schema.json"
+      "tableSchema": "https://raw.githubusercontent.com/globalbioticinteractions/noaa-reem/master/reem-diet-schema.json"
     }
   ]
 }
