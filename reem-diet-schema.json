@@ -140,6 +140,9 @@
     },{
       "name": "Start_date",
       "titles": "Start_date",
-      "datatype": "string"
+      "datatype": {
+        "base": "date",
+        "format": "yyyy-MM-dd HH:mm:ss"
+      }
     }]
   }
