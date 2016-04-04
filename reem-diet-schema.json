@@ -54,11 +54,11 @@
       "titles": "region",
       "datatype": "string"
     },{
-      "name": "Pred_name",
+      "name": "sourceTaxonName",
       "titles": "Pred_name",
       "datatype": "string"
     },{
-      "name": "Prey_Name",
+      "name": "targetTaxonName",
       "titles": "Prey_Name",
       "datatype": "string"
     },{
