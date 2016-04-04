@@ -1,0 +1,139 @@
+{
+    "columns": [{
+      "name": "Hauljoin",
+      "titles": "Hauljoin",
+      "datatype": "string"
+    }, {
+      "name": "Pred_nodc",
+      "titles": "Pred_nodc",
+      "datatype": "string"
+    }, {
+      "name": "Pred_specn",
+      "titles": "Pred_specn",
+      "datatype": "string"
+    }, {
+      "name": "Prey_nodc",
+      "titles": "Prey_nodc",
+      "datatype": "string"
+    },{
+      "name": "Prey_cnt",
+      "titles": "Prey_cnt",
+      "datatype": "string"
+    }, {
+      "name": "Prey_twt",
+      "titles": "Prey_twt",
+      "datatype": "string"
+    },{
+      "name": "Pred_stomwt",
+      "titles": "Pred_stomwt",
+      "datatype": "string"
+    },{
+      "name": "Pred_len",
+      "titles": "Pred_len",
+      "datatype": "string"
+    },{
+      "name": "Pred_full",
+      "titles": "Pred_full",
+      "datatype": "string"
+    },{
+      "name": "Pred_wt",
+      "titles": "Pred_wt",
+      "datatype": "string"
+    },{
+      "name": "Year",
+      "titles": "Year",
+      "datatype": "string"
+    },{
+      "name": "Month",
+      "titles": "Month",
+      "datatype": "string"
+    },{
+      "name": "day",
+      "titles": "day",
+      "datatype": "string"
+    },{
+      "name": "region",
+      "titles": "region",
+      "datatype": "string"
+    },{
+      "name": "Pred_name",
+      "titles": "Pred_name",
+      "datatype": "string"
+    },{
+      "name": "Prey_Name",
+      "titles": "Prey_Name",
+      "datatype": "string"
+    },{
+      "name": "Pred_lh",
+      "titles": "Pred_lh",
+      "datatype": "string"
+    },{
+      "name": "Pred_dig",
+      "titles": "Pred_dig",
+      "datatype": "string"
+    },{
+      "name": "Prey_lh",
+      "titles": "Prey_lh",
+      "datatype": "string"
+    },{
+      "name": "Pred_sex",
+      "titles": "Pred_sex",
+      "datatype": "string"
+    },{
+      "name": "Prey_parts",
+      "titles": "Prey_parts",
+      "datatype": "string"
+    },{
+      "name": "Vessel",
+      "titles": "Vessel",
+      "datatype": "string"
+    },{
+      "name": "Cruise",
+      "titles": "Cruise",
+      "datatype": "string"
+    },{
+      "name": "Haul",
+      "titles": "Haul",
+      "datatype": "string"
+    },{
+      "name": "Rlat",
+      "titles": "Rlat",
+      "datatype": "string"
+    },{
+      "name": "Rlong",
+      "titles": "Rlong",
+      "datatype": "string"
+    },{
+      "name": "Gear_depth",
+      "titles": "Gear_depth",
+      "datatype": "string"
+    },{
+      "name": "Bottom_depth",
+      "titles": "Bottom_depth",
+      "datatype": "string"
+    },{
+      "name": "Start_hour",
+      "titles": "Start_hour",
+      "datatype": "string"
+    },{
+      "name": "Surface_temp",
+      "titles": "Surface_temp",
+      "datatype": "string"
+    },{
+      "name": "Gear_temp",
+      "titles": "Gear_temp",
+      "datatype": "string"
+    },{
+      "name": "INPFC_Area",
+      "titles": "INPFC_Area",
+      "datatype": "string"
+    },{
+      "name": "Stationid",
+      "titles": "Stationid",
+      "datatype": "string"
+    },{
+      "name": "Start_date",
+      "titles": "Start_date",
+      "datatype": "string"
+    }]
+  }
