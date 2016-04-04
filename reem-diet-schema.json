@@ -102,11 +102,11 @@
       "titles": "Haul",
       "datatype": "string"
     },{
-      "name": "Rlat",
+      "name": "http://rs.tdwg.org/dwc/terms/decimalLatitude",
       "titles": "Rlat",
       "datatype": "string"
     },{
-      "name": "Rlong",
+      "name": "http://rs.tdwg.org/dwc/terms/decimalLongitude",
       "titles": "Rlong",
       "datatype": "string"
     },{
