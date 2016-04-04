@@ -102,7 +102,7 @@
       "titles": "Start_date",
       "datatype": {
         "base": "date",
-        "format": "yyyy-MM-dd"
+        "format": "yyyy-MM-dd HH:mm:ss"
       }
     },{
       "name": "Prey_sz1",
