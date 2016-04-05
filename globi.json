@@ -4,17 +4,17 @@
   "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002470",
   "interactionTypeName": "eats",
   "tables": [
-    { "url": "http://access.afsc.noaa.gov/REEM/WebDietData/showdata4.php?NODC=1&Region=AI",
+    { "url": "http://access.afsc.noaa.gov/REEM/WebDietData/showdata5.php?NODC=1&Region=AI",
       "dcterms:bibliographicCitation": "Resource Ecology and Ecosystem Modeling (REEM) - Groundfish Diet Data of Aleutian Islands, Alaska Fisheries Science Center, NOAA",
       "tableSchema": "https://raw.githubusercontent.com/globalbioticinteractions/noaa-reem/master/reem-diet-schema.json",
       "headerRowCount": 1
     },
-    { "url": "http://access.afsc.noaa.gov/REEM/WebDietData/showdata4.php?NODC=1&Region=BS",
+    { "url": "http://access.afsc.noaa.gov/REEM/WebDietData/showdata5.php?NODC=1&Region=BS",
       "dcterms:bibliographicCitation": "Resource Ecology and Ecosystem Modeling (REEM) - Groundfish Diet of Data Bering Sea, Alaska Fisheries Science Center, NOAA",
       "tableSchema": "https://raw.githubusercontent.com/globalbioticinteractions/noaa-reem/master/reem-diet-schema.json",
       "headerRowCount": 1
     },
-    { "url": "http://access.afsc.noaa.gov/REEM/WebDietData/showdata4.php?NODC=1&Region=GOA",
+    { "url": "http://access.afsc.noaa.gov/REEM/WebDietData/showdata5.php?NODC=1&Region=GOA",
       "dcterms:bibliographicCitation": "Resource Ecology and Ecosystem Modeling (REEM) - Groundfish Diet Data of Gulf of Alaska, Alaska Fisheries Science Center, NOAA",
       "tableSchema": "https://raw.githubusercontent.com/globalbioticinteractions/noaa-reem/master/reem-diet-schema.json",
       "headerRowCount": 1
