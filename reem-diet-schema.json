@@ -4,7 +4,7 @@
       "titles": "Hauljoin",
       "datatype": "string"
     }, {
-      "name": "sourceTaxonExternalId",
+      "name": "sourceTaxonId",
       "titles": "Pred_nodc",
       "datatype": { 
           "id" : "https://marinemetadata.org/references/nodctaxacodes",
@@ -15,7 +15,7 @@
       "titles": "Pred_specn",
       "datatype": "string"
     }, {
-      "name": "targetTaxonExternalId",
+      "name": "targetTaxonId",
       "titles": "Prey_nodc",
       "datatype": { 
           "id" : "https://marinemetadata.org/references/nodctaxacodes",
