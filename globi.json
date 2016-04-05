@@ -1,6 +1,8 @@
 {
   "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
   "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
+  "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002470",
+  "interactionTypeName": "eats",
   "tables": [
     { "url": "http://access.afsc.noaa.gov/REEM/WebDietData/showdata4.php?NODC=1&Region=AI",
       "dcterms:bibliographicCitation": "Resource Ecology and Ecosystem Modeling (REEM) - Groundfish Diet Data of Aleutian Islands, Alaska Fisheries Science Center, NOAA",
