@@ -3,6 +3,5 @@ install:
   - chmod +x check-dataset.sh
 
 script: 
-  - travis_wait 30 ./check-dataset.sh ${TRAVIS_REPO_SLUG} > parse.log
-  - head -n 100 parse.log
-  - tail -n 100 parse.log
+  - travis_wait 30 ./check-dataset.sh ${TRAVIS_REPO_SLUG}
+  
