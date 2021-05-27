@@ -2,7 +2,7 @@
   "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
   "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
   "tables": [
-    { "url": "http://access.afsc.noaa.gov/REEM/WebDietData/showdata5.php?NODC=1&Region=AI",
+    { "url": "https://apps-afsc.fisheries.noaa.gov/refm/reem/webdietdata/showdata5.php?NODC=1&Region=AI",
       "dcterms:bibliographicCitation": "Resource Ecology and Ecosystem Modeling (REEM) - Groundfish Diet Data of Aleutian Islands, Alaska Fisheries Science Center, NOAA",
       "tableSchema": "reem-diet-schema.json",
       "headerRowCount": 1,
@@ -10,7 +10,7 @@
       "interactionTypeName": "eats",
       "null": ["9999999998.0"]
     },
-    { "url": "http://access.afsc.noaa.gov/REEM/WebDietData/showdata5.php?NODC=1&Region=BS",
+    { "url": "https://apps-afsc.fisheries.noaa.gov/refm/reem/webdietdata/showdata5.php?NODC=1&Region=BS",
       "dcterms:bibliographicCitation": "Resource Ecology and Ecosystem Modeling (REEM) - Groundfish Diet of Data Bering Sea, Alaska Fisheries Science Center, NOAA",
       "tableSchema": "reem-diet-schema.json",
       "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002470",
@@ -18,7 +18,7 @@
       "headerRowCount": 1,
       "null": ["9999999998.0"]
     },
-    { "url": "http://access.afsc.noaa.gov/REEM/WebDietData/showdata5.php?NODC=1&Region=GOA",
+    { "url": "https://apps-afsc.fisheries.noaa.gov/refm/reem/webdietdata/showdata5.php?NODC=1&Region=GOA",
       "dcterms:bibliographicCitation": "Resource Ecology and Ecosystem Modeling (REEM) - Groundfish Diet Data of Gulf of Alaska, Alaska Fisheries Science Center, NOAA",
       "tableSchema": "reem-diet-schema.json",
       "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002470",
